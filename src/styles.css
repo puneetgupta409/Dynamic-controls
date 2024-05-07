@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.p-dropdown{
+    width: 100%;
+}
+.p-dropdown-panel .p-dropdown-items{
+    padding: 0px;
+}
+.p-multiselect{
+    width: 100%;
+}
+.p-multiselect-items{
+    padding: 0px;
+}
+
